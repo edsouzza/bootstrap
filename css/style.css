@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-bottom: 300px;
+    padding: 10px;
+    border: 2px solid rgb(51, 97, 39);
+    background-color:bisque;
+}
+
+.row{
+    background-color: chocolate;
+    border: 1px solid rgb(19, 18, 19);
+    height: 100px;
+    padding: 10px;
+    margin: 0;
+}
+
+.col{
+    border: 3px dotted red;
+    height: 100%;
+    margin: 0;
+}
+
+.par{
+    background-color: blue;
+}
